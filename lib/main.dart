@@ -220,7 +220,7 @@ class _MyAppState extends State<MyApp> {
                   onPressed: () {},
                   child: const Text(
                     "Delete",
-                    style: TextStyle(color: Colors.white),
+                    style: TextStyle(color: Colors.black),
                   ),
                 ),
               ],
